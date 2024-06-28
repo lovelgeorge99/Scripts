@@ -5,6 +5,7 @@ const workbook = XLSX.readFile('./merged_output.xlsx');
 const sheet = workbook.Sheets['MergedData'];  // Replace with your sheet name
 
 // Convert the sheet to JSON
+
 const data = XLSX.utils.sheet_to_json(sheet);
 
 // Add new columns based on the conditions for both holders and delegates
