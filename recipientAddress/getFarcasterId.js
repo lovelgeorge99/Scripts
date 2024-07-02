@@ -1,12 +1,12 @@
 const axios = require('axios');
 const XLSX = require('xlsx');
-
+require('dotenv').config()
 // Define the API endpoint, parameters, and the Bearer token
 const apiUrl = 'https://vote.optimism.io/api/v1/projects';
 const limit = 100; // Maximum limit for each request
 let offset = 0; // Starting offset
 let allData = []; // Array to store all the data
-const bearerToken = '80963194-c250-4a37-921a-302bf50dee34'; // Replace with your actual Bearer token
+const bearerToken = process.env.AGORA_API; // Replace with your actual Bearer token
 
 // Function to fetch data from the API
 const fetchData = async (offset, limit) => {
