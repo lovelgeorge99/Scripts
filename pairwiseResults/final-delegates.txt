@@ -1,0 +1,230 @@
+Aerodrome Finance | DEXs & Perps | 1.0338
+Paragraph | Social Networks & Platforms | 0.9234
+Zora | Social Networks & Platforms | 0.8757
+Velodrome Finance | DEXs & Perps | 0.8322
+Aave | Lending & Asset Management | 0.7750
+ODOS | DEXs & Perps | 0.5912
+Dmail Network | Social Networks & Platforms | 0.5851
+Account Abstraction - ERC-4337 | User & Development experience | 0.5797
+0x Protocol | DEXs & Perps | 0.5776
+Phi | Social Networks & Platforms | 0.5400
+Layer3 | User & Development experience | 0.5340
+Sushiswap | DEXs & Perps | 0.5217
+Tarot | Lending & Asset Management | 0.5173
+Synthetix | DEXs & Perps | 0.5093
+Guild.xyz | Web3 Onboarding & Engagement | 0.4691
+CyberConnect Protocol | Web3 Onboarding & Engagement | 0.4645
+Moonwell | Lending & Asset Management | 0.4364
+Kim Exchange | DEXs & Perps | 0.4353
+Linkdrop | Web3 Onboarding & Engagement | 0.4334
+Compound Finance | Lending & Asset Management | 0.4309
+🏰 BuidlGuidl | Web3 Onboarding & Engagement | 0.4194
+far.quest - Farcaster Super App | Web3 Onboarding & Engagement | 0.4177
+Ironclad Finance | Lending & Asset Management | 0.4162
+LI.FI | Cross chain | 0.4068
+Manifold | NFT Collectibles | 0.4014
+ParaSwap | DeFi UX | 0.3863
+Kwenta | DEXs & Perps | 0.3839
+Seamless Protocol | Lending & Asset Management | 0.3790
+Ethereum Attestation Service (EAS) | Governance & Gov tooling | 0.3684
+BaseSwap | DEXs & Perps | 0.3659
+Multicall3 | User & Development experience | 0.3656
+Stargate Finance | Cross chain | 0.3553
+Maverick Protocol | DeFi UX | 0.3453
+Zerion | DeFi UX | 0.3453
+Sound.xyz | NFT Collectibles | 0.3334
+Speedtracer | Social Networks & Platforms | 0.3313
+Coinvise | Web3 Onboarding & Engagement | 0.3244
+Sonne Finance | Lending & Asset Management | 0.3178
+BLOCKS | NFT Collectibles | 0.3152
+Slice | User & Development experience | 0.3079
+Biconomy | User & Development experience | 0.2978
+DefiLlama | DeFi UX | 0.2942
+Beefy | DeFi UX | 0.2928
+Thales Protocol | DeFi Ecosystems | 0.2726
+$ENJOY | Web3 Onboarding & Engagement | 0.2718
+NiftyKit | NFT Collectibles | 0.2714
+deBridge | Cross chain | 0.2700
+Holograph Foundation | Cross chain | 0.2692
+Virtuals Protocol | User & Development experience | 0.2661
+Superfluid | Governance & Gov tooling | 0.2661
+Rainbow (Rainbow Router) | DeFi Ecosystems | 0.2576
+Gitcoin Passport | Governance & Gov tooling | 0.2555
+Gitcoin | Governance & Gov tooling | 0.2468
+Circle.tech | Web3 Onboarding & Engagement | 0.2464
+Drakula.app | Web3 Onboarding & Engagement | 0.2389
+Multicaller | User & Development experience | 0.2314
+LayerZero | Cross chain | 0.2301
+Equalizer | DeFi UX | 0.2295
+Extra Finance | DeFi UX | 0.2197
+Boost | Governance & Gov tooling | 0.2171
+EthXY | Social Networks & Platforms | 0.2170
+Coordinape | Social Networks & Platforms | 0.2137
+Highlight | NFTverse | 0.2103
+WOOFi | DEXs & Perps | 0.2094
+Perp V2 - Curie | DEXs & Perps | 0.2090
+SwapMode | DEXs & Perps | 0.2067
+Metronome | DeFi Ecosystems | 0.2047
+NFTs2Me | NFTverse | 0.1992
+builder.fi | Social Networks & Platforms | 0.1988
+Ham | Web3 Onboarding & Engagement | 0.1977
+Opti.Domains | User & Development experience | 0.1972
+Streameth | Social Networks & Platforms | 0.1935
+Bodhi | Social Networks & Platforms | 0.1884
+Umbra | User & Development experience | 0.1878
+OptiChads NFT Community | NFT Collectibles | 0.1778
+Basic Dog Meme | DeFi Ecosystems | 0.1771
+Synapse Protocol | Cross chain | 0.1727
+QiDao - Mai.Finance | DeFi Ecosystems | 0.1696
+Balancer | DEXs & Perps | 0.1687
+pods.media | NFTverse | 0.1612
+DappRadar | Social Networks & Platforms | 0.1581
+Portals | DeFi Ecosystems | 0.1554
+Across Protocol | Cross chain | 0.1529
+ZKP2P | User & Development experience | 0.1466
+Aura Finance | DeFi Ecosystems | 0.1427
+Supswap | DEXs & Perps | 0.1390
+zkBob smart contract privacy wallet | User & Development experience | 0.1332
+Unlonely | Social Networks & Platforms | 0.1298
+Owlto Finance | Cross chain | 0.1271
+RubyScore | Governance & Gov tooling | 0.1222
+Sturdy | DeFi Ecosystems | 0.1218
+Giveth | Governance & Gov tooling | 0.1171
+Hats Protocol | Governance & Gov tooling | 0.1164
+HOMES | NFT Collectibles | 0.1160
+Unitap | Web3 Onboarding & Engagement | 0.1132
+Reserve Protocol | DeFi Ecosystems | 0.1124
+Party.app + Party Protocol | Governance & Gov tooling | 0.1112
+Blob Farm | Lending & Asset Management | 0.1084
+Hedgey | Governance & Gov tooling | 0.1070
+Omni X | NFTverse | 0.1054
+Overnight Finance | Lending & Asset Management | 0.1002
+iZUMi Finance | DEXs & Perps | 0.1001
+Basepaint | NFTverse | 0.1000
+fxhash | NFTverse | 0.0998
+Receipts | Social Networks & Platforms | 0.0995
+Pyth Network | User & Development experience | 0.0981
+OpenOcean | DEXs & Perps | 0.0959
+Sablier | DeFi Ecosystems | 0.0943
+Kiwi News | Web3 Onboarding & Engagement | 0.0928
+Let's Get HAI | DeFi Ecosystems | 0.0926
+DackieSwap | DeFi UX | 0.0911
+PoolTogether | Lending & Asset Management | 0.0902
+MYSTCL ($MYST) | NFT Collectibles | 0.0892
+Keng Lernitas | Web3 Onboarding & Engagement | 0.0887
+Avantis | DEXs & Perps | 0.0873
+The Open X Project | DeFi Ecosystems | 0.0859
+Zeronym | User & Development experience | 0.0859
+ModeChat.xyz | Onchain Social on Mode | Social Networks & Platforms | 0.0825
+Lido Finance | Lending & Asset Management | 0.0773
+Smol | DeFi UX | 0.0752
+Infusion | DeFi Ecosystems | 0.0729
+LogX | DEXs & Perps | 0.0716
+TLX | DeFi UX | 0.0690
+Omnisea | NFTverse | 0.0674
+Gamma | Lending & Asset Management | 0.0646
+Talent Protocol | Social Networks & Platforms | 0.0643
+Guac (Farcaster) | Web3 Onboarding & Engagement | 0.0627
+Bored Town | NFTverse | 0.0610
+Exactly Protocol | Lending & Asset Management | 0.0607
+Daimo | User & Development experience | 0.0584
+Hypersub | NFTverse | 0.0576
+L2Pass | Cross chain | 0.0573
+dHEDGE | Lending & Asset Management | 0.0551
+Splits | Governance & Gov tooling | 0.0538
+/send | User & Development experience | 0.0531
+DappLearning ZK redpacket | Web3 Onboarding & Engagement | 0.0531
+BSX | DEXs & Perps | 0.0531
+Alien Base | DEXs & Perps | 0.0526
+NFT HOOK | NFTverse | 0.0515
+Builder Protocol | Governance & Gov tooling | 0.0508
+Aragon | Governance & Gov tooling | 0.0503
+Onchain Blobs - Randomly generated onchain blobs minted via a Farcaster frame | NFT Collectibles | 0.0502
+Decent.xyz | Cross chain | 0.0495
+Orderly Network | DEXs & Perps | 0.0494
+Loot2 | NFTverse | 0.0492
+Beam | User & Development experience | 0.0479
+Polynomial Trade | DEXs & Perps | 0.0458
+Pixotchi | Social Networks & Platforms | 0.0421
+SwapBased | DEXs & Perps | 0.0420
+Gangster Arena | Social Networks & Platforms | 0.0414
+ORA Onchain AI Oracle on Optimism | User & Development experience | 0.0400
+XSwap | Cross chain | 0.0385
+Whimsical Euphoria: A White Inflatable Sheep | NFT Collectibles | 0.0382
+BMX by Morphex | DEXs & Perps | 0.0375
+Clipper DEX | DEXs & Perps | 0.0364
+Pika Protocol | DEXs & Perps | 0.0352
+LlamaPay | DeFi UX | 0.0341
+Velocimeter/Graphene | DEXs & Perps | 0.0323
+Oku Trade | DEXs & Perps | 0.0320
+Astaria | Lending & Asset Management | 0.0312
+Wormhole Foundation | Cross chain | 0.0298
+Based Bodega | Web3 Onboarding & Engagement | 0.0297
+doginme memecoin | Web3 Onboarding & Engagement | 0.0294
+PRINT3R | DeFi Ecosystems | 0.0291
+sudoswap | NFTverse | 0.0276
+Revert | DeFi UX | 0.0274
+Noggles ($NOGS) | Web3 Onboarding & Engagement | 0.0274
+Summer.fi | Lending & Asset Management | 0.0269
+Alchemix | Lending & Asset Management | 0.0265
+Liquidify | NFTverse | 0.0260
+Ethos Reserve | Lending & Asset Management | 0.0249
+TITLES | NFTverse | 0.0248
+Slugs | User & Development experience | 0.0241
+Zerius | Cross chain | 0.0214
+Mochimons | NFT Collectibles | 0.0207
+Tokepad | User & Development experience | 0.0207
+Preon Finance | Lending & Asset Management | 0.0202
+IntentX | DEXs & Perps | 0.0196
+Get Mint | Cross chain | 0.0189
+Router Protocol | Cross chain | 0.0189
+Crypto Composite | Social Networks & Platforms | 0.0185
+Synonym Finance | Lending & Asset Management | 0.0169
+DackieNFT | NFT Collectibles | 0.0168
+Hyperlane | Cross chain | 0.0167
+Pheasant Network | Cross chain | 0.0162
+👑 King of the Degens 🎩 - Farcaster Frame Game | Web3 Onboarding & Engagement | 0.0153
+Union | DeFi UX | 0.0149
+OmniHub | NFTverse | 0.0139
+Arcadia Finance | DeFi UX | 0.0133
+Nogem | Cross chain | 0.0127
+MiniBridge | Cross chain | 0.0124
+Sequence | User & Development experience | 0.0122
+Idle | DeFi UX | 0.0121
+BaseDoge | Web3 Onboarding & Engagement | 0.0118
+Catalog Radio | NFTverse | 0.0118
+3DNS | NFTverse | 0.0117
+Glo Dollar | DeFi Ecosystems | 0.0116
+Copin.io | DeFi UX | 0.0113
+Harvest Finance | DeFi UX | 0.0112
+Base on Rarible | NFTverse | 0.0107
+Ionic Protocol | DeFi Ecosystems | 0.0104
+Wombat Exchange | DeFi Ecosystems | 0.0097
+Whale | Cross chain | 0.0097
+Egg Wars: A Game on Base | Social Networks & Platforms | 0.0095
+Cygnus Finance | DeFi Ecosystems | 0.0092
+Ambire | User & Development experience | 0.0089
+Morkie | NFTverse | 0.0089
+Scry Protocol | DeFi Ecosystems | 0.0087
+Vesper Finance | DeFi UX | 0.0087
+Poster | Web3 Onboarding & Engagement | 0.0084
+CreateMyToken | User & Development experience | 0.0081
+Based Onchain Dinos | NFT Collectibles | 0.0079
+UNCX Network | DeFi UX | 0.0078
+INT | DeFi UX | 0.0077
+Gloom | Governance & Gov tooling | 0.0075
+Fractal Visions | NFTverse | 0.0075
+tanX - The World's Leading Institutional DEX | Cross chain | 0.0073
+Archly | Cross chain | 0.0071
+PAWS Wildlife Room Onchain Vote in a Frame | Governance & Gov tooling | 0.0064
+Based Onchain Cubes | NFT Collectibles | 0.0062
+Building Blocks | NFTverse | 0.0059
+Your Brians | NFT Collectibles | 0.0058
+Crowdmuse | NFTverse | 0.0056
+RMRK | NFTverse | 0.0053
+PiraNFT | NFTverse | 0.0050
+Mintify | NFTverse | 0.0048
+Trash NFTs | NFTverse | 0.0046
+Base Runners | NFT Collectibles | 0.0034
+Based Onchain Punks | NFT Collectibles | 0.0032
+Tiny Based Frogs | NFT Collectibles | 0.0028
