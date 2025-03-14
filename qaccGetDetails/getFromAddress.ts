@@ -49,9 +49,9 @@ async function fetchTransactions(action: string) {
 
 // Function to fetch transactions for both actions
 export async function fetchAllTransactions() {
-  //   await fetchTransactions("txlistinternal"); // Internal transactions
+  await fetchTransactions("txlistinternal"); // Internal transactions
   //   await fetchTransactions("txlist"); // transactions
-  await fetchTransactions("tokentx"); // tokenTransfer
+  // await fetchTransactions("tokentx"); // tokenTransfer
 
   return transactionHashes;
 }
@@ -124,14 +124,18 @@ async function lookupTransaction(txHash: string) {
 
 // Process all transaction hashes with batching and concurrency control
 export async function processTransactionHashes(transactionHashes: string[]) {
-  const fromAddresses: string[] = [];
+  const addressToTxMap: Record<string, string[]> = {};
   const notFoundHashes: string[] = [];
 
   const promises = transactionHashes.map((txHash) =>
     limit(async () => {
       const fromAddress = await lookupTransaction(txHash);
       if (fromAddress) {
-        fromAddresses.push(fromAddress);
+        const normalizedAddress = fromAddress.toLowerCase();
+        if (!addressToTxMap[normalizedAddress]) {
+          addressToTxMap[normalizedAddress] = [];
+        }
+        addressToTxMap[normalizedAddress].push(txHash);
       } else {
         notFoundHashes.push(txHash);
       }
@@ -140,9 +144,10 @@ export async function processTransactionHashes(transactionHashes: string[]) {
 
   await Promise.all(promises);
 
-  console.log("From Addresses:", fromAddresses);
+  console.log("Address to Transaction Map:", addressToTxMap);
   console.log("Not Found Hashes:", notFoundHashes);
-  return { fromAddresses, notFoundHashes };
+
+  return { addressToTxMap, notFoundHashes };
 }
 
 export async function getFromAddress() {
@@ -151,3 +156,5 @@ export async function getFromAddress() {
 
   await processTransactionHashes(transactions);
 }
+
+getFromAddress();
